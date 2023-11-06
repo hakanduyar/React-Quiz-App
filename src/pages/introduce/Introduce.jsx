@@ -1,7 +1,8 @@
 import React from "react";
+import "./Introduce.css";
 
-const introduce = () => {
-  return <div>introduce</div>;
+const Introduce = () => {
+  return <div className="introduce">Introduce</div>;
 };
 
-export default introduce;
+export default Introduce;
