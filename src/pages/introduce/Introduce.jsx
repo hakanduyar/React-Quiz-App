@@ -1,8 +1,9 @@
 import React from "react";
 import "./Introduce.css";
-import Dropdown from "../../../components/dropdown/Dropdown";
+import Dropdown from "../../dropdown/Dropdown";
 
 const Introduce = () => {
+  const difficulty = ["easy", "medium", "hard"];
   return (
     <div className="introduce">
       <div className="introduce-container">
