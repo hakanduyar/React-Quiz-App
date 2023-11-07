@@ -5,6 +5,8 @@ import Dropdown from "../../dropdown/Dropdown";
 const Introduce = () => {
   const difficulty = ["easy", "medium", "hard"];
   const [difficultyChange, setDifficultyChange] = useState("");
+
+  console.log(difficultyChange, "difficultyChange");
   return (
     <div className="introduce">
       <div className="introduce-container">
