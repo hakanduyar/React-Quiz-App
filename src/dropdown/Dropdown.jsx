@@ -6,7 +6,7 @@ const Dropdown = ({ data, setDifficultyChange }) => {
     <div className="dropdown">
       <select name="" id="">
         {data.map((dt, i) => (
-          <option value=""></option>
+          <option value={dt}>{dt}</option>
         ))}
       </select>
     </div>
