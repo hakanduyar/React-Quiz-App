@@ -10,7 +10,9 @@ const Dropdown = ({ data, setDifficultyChange }) => {
         id=""
       >
         {data.map((dt, i) => (
-          <option value={dt}>{dt}</option>
+          <option key={i} value={dt}>
+            {dt}
+          </option>
         ))}
       </select>
     </div>
