@@ -1,3 +1,11 @@
+
+
+![1](https://github.com/hakanduyar/React-Quiz-App/assets/79376651/bd3f269e-9d6b-4978-ae30-129dd2ae711a)
+![2](https://github.com/hakanduyar/React-Quiz-App/assets/79376651/de15b41d-54ef-4210-9281-1bc632a12e49)
+![3](https://github.com/hakanduyar/React-Quiz-App/assets/79376651/110df917-db85-4185-96e9-7174c775a50e)
+![4](https://github.com/hakanduyar/React-Quiz-App/assets/79376651/be05ebaf-0958-4a7e-b444-795dd095b4e4)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
