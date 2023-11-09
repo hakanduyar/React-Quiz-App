@@ -1,2 +1,4 @@
 .questionCard {
+  max-width: 700px;
+  width: 100%;
 }
