@@ -9,3 +9,35 @@
   color: antiquewhite;
   margin-bottom: 10px;
 }
+
+.questionCard button {
+  width: 48%;
+  height: 40px;
+  font-size: 17px;
+  margin: 0.3rem;
+  background-color: lightgray;
+  border: 1px solid whitesmoke;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.questionCard button:hover {
+  background-color: transparent;
+  color: whitesmoke;
+  border: transparent;
+}
+
+.questionCard-timer {
+  width: 45px;
+  height: 45px;
+  font-size: 25px;
+  font-weight: bold;
+  background-color: transparent;
+  color: whitesmoke;
+  border: 5px solid black;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 1rem;
+}

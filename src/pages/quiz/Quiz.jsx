@@ -29,7 +29,7 @@ const Quiz = () => {
         score={score}
         setScore={setScore}
         count={count}
-        setCount={count}
+        setCount={setCount}
         modal={modal}
         setModal={setModal}
       />
