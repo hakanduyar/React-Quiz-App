@@ -21,7 +21,7 @@ const QuestionCard = ({
 
   return (
     <div className="questionCard">
-      <div>
+      <div className="questionCard-title">
         {count + 1}/10 - {questionData[count]?.question}
       </div>
       {questionData[count]?.answers?.map((answer, i) => (
