@@ -1,4 +1,4 @@
-# React Quiz App
+# React-Quiz-App
 [Live Demo Link](https://react-quiz-app-three-azure.vercel.app/)
 
 
